@@ -2,8 +2,6 @@
 # Yaroslav Aulin
 # 24/01/2022
 
-
-
 echo " # CPU Temperature log file" > temp.csv
 echo " 'Timestamp', 'Temperature, C'" >> temp.csv
 
